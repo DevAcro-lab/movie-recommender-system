@@ -1,0 +1,1 @@
+This project is a content-based movie recommender system built using the TMDB 5000 Movie Dataset. It processes movie metadata including genres, keywords, cast, crew, and overview to generate textual tags for each movie. These tags are vectorized using CountVectorizer, and cosine similarity is applied to recommend movies similar to a given title.
